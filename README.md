@@ -1,6 +1,8 @@
 # project
 KoreaBox
-코리아 IT 아카데미 안신혁 프로젝트
+코리아 IT 아카데미 안신혁
+
+spring framework MVC 프로젝트
 
 # Description
 온라인 영화예매 사이트
