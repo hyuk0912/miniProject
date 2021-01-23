@@ -25,7 +25,7 @@ spring framework MVC 프로젝트
 # Stack
 Language : JAVA, JSP, HTML, CSS, Javascript
 
-Library : json, cos, JQuery
+Library : json, cos, JQuery, jstl
 
 Database : oracle
 
@@ -59,3 +59,8 @@ Database : oracle
 페이징, 검색 기능
 
 관리자 영화 관리 관련 예외처리
+
+
+# Project planning
+
+DOC 폴더 
