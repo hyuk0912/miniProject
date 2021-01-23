@@ -28,11 +28,21 @@ DOC 폴더 참조
 2020-11-26 - 2020-12-10
 
 # Stack
-Language : JAVA, JSP, HTML, CSS, Javascript
+Language : JAVA, HTML, CSS, Javascript
 
-Library : json, cos, JQuery, jstl
+Library : cos, JQuery, jstl, lombok, jackson, commons, javax.mail
 
 Database : oracle
+
+JDBC : mybatis
+
+server : tomcat9.0
+
+project : maven, spring MVC project
+
+framework : bootstrap, spring 5.2.1.RELEASE
+
+개발 환경 : eclipse
 
 
 # 참여 파트
