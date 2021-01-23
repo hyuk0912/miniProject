@@ -19,6 +19,11 @@ spring framework MVC 프로젝트
 이지연 (dev-Ji)
 
 
+# Project planning
+
+DOC 폴더 참조
+
+
 # Period
 2020-11-26 - 2020-12-10
 
@@ -61,6 +66,3 @@ Database : oracle
 관리자 영화 관리 관련 예외처리
 
 
-# Project planning
-
-DOC 폴더 
