@@ -76,3 +76,29 @@ framework : bootstrap, spring 5.2.1.RELEASE
 관리자 영화 관리 관련 예외처리
 
 
+# youtube
+
+관리자 CRUD
+
+https://youtu.be/CNUsBm2LC0A
+
+https://youtu.be/qZW0gA46s7E
+
+
+관리자 영화 등록
+
+https://youtu.be/As6ZeXobUi4
+
+
+사용자 상영예정작
+
+https://youtu.be/YuvOGtPZa7g
+
+
+사용자 현재상영작
+
+https://youtu.be/qAjQ1qxxbD8
+
+별점과 댓글
+https://youtu.be/h2eqyoHF4m0
+
